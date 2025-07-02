@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 232);
+    box-sizing: border-box;
+}
+
+.title {
+    background-color: rgb(168, 245, 255);
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 5px rgb(180, 180, 180) solid;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+h2 {
+    background-color: rgb(168, 245, 255);
+    padding: 8px 15px;
+    border-radius: 10px;
+    border: 5px rgb(180, 180, 180) solid;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+ul {
+    font-size: 18px;
+    margin: 10px;
+    padding: 8px 40px;
+    border: 2px dotted black;
+}
+
+ol {
+    font-size: 18px;
+    margin: 10px;
+    padding: 8px 40px;
+    border: 2px dashed rgb(136, 136, 136);
+}
+
+a {
+    background-color: rgb(0, 0, 86);
+    color: white;
+    padding: 5px;
+}
+
+img {
+    margin: 25px 0;
+}
